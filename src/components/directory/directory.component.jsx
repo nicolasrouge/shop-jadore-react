@@ -12,7 +12,7 @@ class Directory extends React.Component {
             sections : [
                 {
                   title: 'hats',
-                  imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                  imageUrl: 'https://images.vivino.com/thumbs/9tKfWxg7SKinNtAvrtndgA_pb_x600.png',
                   id: 1,
                   linkUrl: 'hats'
                 },
@@ -30,25 +30,21 @@ class Directory extends React.Component {
                 },
                 {
                   title: 'womens',
-                  imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+                  imageUrl: 'https://assets-global.website-files.com/5dd5d96cb04202979d27778b/5efccf988ca8df9a8d780f00_Feature%20image_2.jpg',
                   size: 'large',
                   id: 4,
                   linkUrl: 'womens'
                 },
                 {
                   title: 'mens',
-                  imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+                  imageUrl: 'https://cdn.shopify.com/s/files/1/2128/6147/articles/180327_frenchwine_2048x.jpg?v=1522132851',
                   size: 'large',
                   id: 5,
                   linkUrl: 'mens'
                 }
               ]
-
         }
-        
-        
-        
-        
+
     }
     render(){
         return (
