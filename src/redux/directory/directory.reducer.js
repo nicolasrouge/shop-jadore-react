@@ -2,7 +2,7 @@ const INITIAL_STATE = {
     sections : [
         {
           title: 'hats',
-          imageUrl: 'https://images.vivino.com/thumbs/9tKfWxg7SKinNtAvrtndgA_pb_x600.png',
+          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
           id: 1,
           linkUrl: 'shop/hats'
         },
@@ -20,14 +20,14 @@ const INITIAL_STATE = {
         },
         {
           title: 'womens',
-          imageUrl: 'https://assets-global.website-files.com/5dd5d96cb04202979d27778b/5efccf988ca8df9a8d780f00_Feature%20image_2.jpg',
+          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
           size: 'large',
           id: 4,
           linkUrl: 'shop/womens'
         },
         {
           title: 'mens',
-          imageUrl: 'https://cdn.shopify.com/s/files/1/2128/6147/articles/180327_frenchwine_2048x.jpg?v=1522132851',
+          imageUrl: 'https://www.apetogentleman.com/wp-content/uploads/2018/06/top-male-models-1160x677.jpg',
           size: 'large',
           id: 5,
           linkUrl: 'shop/mens'
