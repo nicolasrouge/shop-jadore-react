@@ -1,63 +1,62 @@
 const SHOP_DATA = {
   hats:{
     id: 1,
-    title: 'Hats',
+    title: 'Bookmarks',
     routeName: 'hats',
     items: [
       {
         id: 1,
-        name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-        price: 25
+        name: 'Blue Flowers',
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/jadore-db.appspot.com/o/blueflowers.jpeg?alt=media&token=599cfda3-b1ee-4f9b-b3d6-8f731ce0e53f',
+        price: 4
       },
       {
         id: 2,
-        name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
-        price: 18
+        name: 'Giraffe',
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/jadore-db.appspot.com/o/giraffe1.jpeg?alt=media&token=99f51f9e-4fbe-4e5f-a078-ce697b5ae912',
+        price: 4
       },
       {
         id: 3,
-        name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
-        price: 35
+        name: 'Pink Flowers',
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/jadore-db.appspot.com/o/pinkflowers.jpeg?alt=media&token=ac9780eb-959b-4d81-b5c8-dc046d50e848',
+        price: 4
       },
       {
         id: 4,
-        name: 'Grey Brim',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
-        price: 25
+        name: 'Poppy',
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/jadore-db.appspot.com/o/poppy1.jpeg?alt=media&token=1a2abc34-e318-4b80-9331-ae01747c15ea',
+        price: 4
       },
       {
         id: 5,
-        name: 'Green Beanie',
-        imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
-        price: 18
+        name: 'Poppy',
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/jadore-db.appspot.com/o/poppy3.jpeg?alt=media&token=d10bbf2c-dc18-4c10-a474-5729eb734c13',
+        price: 4
       },
       {
         id: 6,
-        name: 'Palm Tree Cap',
-        imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
-        price: 14
+        name: 'Pumpkin',
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/jadore-db.appspot.com/o/pumpkin1.jpeg?alt=media&token=2cb6735e-8b22-423c-8343-7811e0df51f0',
+        price: 4
       },
       {
         id: 7,
-        name: 'Red Beanie',
-        imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
-        price: 18
+        name: 'Spider',
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/jadore-db.appspot.com/o/spider.jpeg?alt=media&token=e8d8eda8-3394-493d-ba62-42c2b14872ab',
+        price: 4
       },
       {
         id: 8,
-        name: 'Wolf Cap',
-        imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
-        price: 14
-      },
-      {
+        name: 'Cute Whale',
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/jadore-db.appspot.com/o/whale1.jpeg?alt=media&token=56def094-9680-47af-bd60-c38aca2dab0e',
+        price: 4
+      }/*{
         id: 9,
         name: 'Blue Snapback',
         imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
         price: 16
-      }
+      }*/
     ]
   },
   sneakers:{
@@ -69,7 +68,7 @@ const SHOP_DATA = {
         id: 10,
         name: 'Adidas NMD',
         imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
-        price: 220
+        price: 4
       },
       {
         id: 11,

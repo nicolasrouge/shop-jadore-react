@@ -1,8 +1,8 @@
 const INITIAL_STATE = {
     sections : [
         {
-          title: 'hats',
-          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+          title: 'bookmarks',
+          imageUrl: 'https://firebasestorage.googleapis.com/v0/b/jadore-db.appspot.com/o/collectionBookmark.jpeg?alt=media&token=3ebe9ca8-b55f-4039-9bae-7b47bdba7d4b',
           id: 1,
           linkUrl: 'shop/hats'
         },
